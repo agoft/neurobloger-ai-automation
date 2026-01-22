@@ -54,8 +54,6 @@
 ## Демо и скриншоты
 
 <p align="center">
-  <!-- Замените на реальные GIF/скриншоты, загруженные в репозиторий -->
-  <img src="assets/dashboard-demo.gif" alt="Dashboard Demo" width="70%">
   <br><br>
   <img src="assets/ai-rewrite-example.png" alt="AI Rewrite" width="45%">
   <img src="assets/content-plan.png" alt="Content Plan" width="45%">
