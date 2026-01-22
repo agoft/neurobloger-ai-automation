@@ -51,13 +51,6 @@
 - Арбитражники трафика
 - Инфобизнес и e-commerce (воронки, продвижение)
 
-## Демо и скриншоты
-
-<p align="center">
-  <br><br>
-  <img src="assets/ai-rewrite-example.png" alt="AI Rewrite" width="45%">
-  <img src="assets/content-plan.png" alt="Content Plan" width="45%">
-</p>
 
 ## 🚀 Как начать (за 3 минуты)
 
