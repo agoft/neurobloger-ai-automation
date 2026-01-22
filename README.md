@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0d1117/58a6ff?text=NeuroBloger+-+AI+Автопостинг+Telegram+%2B+VK+%2B+Дзен" alt="NeuroBloger Banner">
+  
   <br><br>
   <h1>NeuroBloger 🧠🚀</h1>
 </p>
